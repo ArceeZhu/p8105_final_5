@@ -4,7 +4,7 @@ output: github_document
 ---
 ### The group members
 
-Yuxuan Wang (yw3995), Shihui Peng (sp4170), Ruiqi Xue (rx2236), Jingyu Wang (jw4348), Jiangyuan Zhu (jz3573) 
+Yuxuan Wang (yw3995), Shihui Peng (sp4170), Ruiqi Xue (rx2236), Jingyu Wang (jw4348), Jiangyuan Zhu (jz3573)  
 
 # The tentative project title
 
